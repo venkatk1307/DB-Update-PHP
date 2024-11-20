@@ -1,0 +1,100 @@
+.emp{
+    padding: 5px 0;
+    color: rgb(0, 0, 0);
+}
+.row1{
+    margin: 4px 10px;
+}
+
+.col-sm-5{
+    text-align: right;
+}
+
+.col-sm-7{
+    text-align: left;
+}
+.head{
+    text-decoration: underline;
+    text-align: left;
+    display: block;
+    margin: auto;
+    padding: 5px 0;
+    padding-left: 10px;
+    margin: 10px auto;
+    font-weight: bold;
+}
+label{
+    margin-left: 5px;
+    margin-right: 15px;
+}
+input{
+    border-color: transparent;
+    box-shadow: none;
+    border-bottom: 2px solid rgb(84, 70, 143);
+}
+.heading{
+    background-color: rgb(235, 235, 241);
+    border-radius: 0;
+}
+h6{
+    text-align: right;
+}
+a{
+    text-decoration: none;
+}
+
+
+#details{
+    background-color: rgb(250, 248, 244);
+    display: none;
+}
+img{
+    border-radius: 50%;
+}
+.cds{
+    box-shadow: 0 2px 2px 0;
+    padding: 10px 6px;
+    margin-right: 0;
+    padding-right: 10px;
+    padding-left: 15px;
+}
+i{
+    margin: 0;
+    margin-right: 5px;
+}
+hr{
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+.icon{
+    margin: 0;
+    padding: 10px 0;
+}
+h5{
+    margin: 5px 0;
+}
+.edit{
+    font-weight: bold;
+    text-align: right;
+}
+.col-sm-8, .col-sm-4{
+    margin: auto;
+    display: block;
+}
+.accordion-button{
+    background-color: rgb(247, 247, 252);
+}
+#bdy{
+    margin-top: 50px;
+}
+.col-sm-4{
+    padding-left: 20px;
+}
+
+@media (max-width: 350px) {
+    .col-sm-5 {
+        text-align: left;
+    }
+}
